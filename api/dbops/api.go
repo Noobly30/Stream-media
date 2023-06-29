@@ -6,9 +6,6 @@ import (
 	"stream-media/api/defs"
 	"stream-media/api/utils"
 	"time"
-
-	"github.com/avenssi/video-server/utils"
-	"github.com/avenssi/video_server/defs"
 	_ "github.com/go-sql-driver/mysql"
 )
 
